@@ -1,0 +1,12 @@
+.env
+bot.py
+conversation_summaries.json
+conversation_summaries.py
+memory.json
+memory.py
+poe_client.py
+proactive_state.json
+proactive_state.py
+recent_history.json
+recent_history.py
+required_packages.txt
